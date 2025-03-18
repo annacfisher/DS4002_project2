@@ -9,12 +9,14 @@ Project 2 github repository for DS 4002 group 16
 
 ## Map
 
-### License
+### License:
 
-### Scripts
+MIT License dictating how this data and analysis can be used.
 
-### Data
+### Scripts:
 
-### Output
+### Data:
+
+### Output:
 
 ## Reproducing Results
