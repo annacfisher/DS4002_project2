@@ -12,4 +12,4 @@
 
 ## Line Plot of First and Seasonal Difference of Log of Average Weekly Adjusted DraftKings Stock Price
 
-<img width="422" alt="Screenshot 2025-03-18 at 12 13 10 PM" src="https://github.com/user-attachments/assets/0f5b4adb-36b7-4a78-bb21-0106e41080c5" />
+<img width="987" alt="Screenshot 2025-03-18 at 12 13 10 PM" src="https://github.com/user-attachments/assets/0f5b4adb-36b7-4a78-bb21-0106e41080c5" />
