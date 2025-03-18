@@ -8,6 +8,12 @@ Project 2 github repository for DS 4002 group 16
 
 
 ## Map
+# License
 
+# Scripts
+
+# Data
+
+# Output
 
 ## Reproducing Results
