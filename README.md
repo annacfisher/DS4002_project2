@@ -11,10 +11,10 @@ Project 2 github repository for DS 4002 group 16
 
 ### License
 
-#### Scripts
+### Scripts
 
 ### Data
 
-#### Output
+### Output
 
 ## Reproducing Results
