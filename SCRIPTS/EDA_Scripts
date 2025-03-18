@@ -51,11 +51,28 @@ plt.tight_layout()
 plt.show()
 
 ## 3) Decomposition plot of the Log of Average Adjusted Weekly Price
-
+decomp <- decompose(le, type="multiplicative")
+plot(decomp, col="darkgreen")
 
 ## 4) Line Plot of First and Seasonal Difference of Log of Average Weekly Adjusted DraftKings Stock Price
 
+```{r}
+#first difference
+diff_log <- diff(le)
+#seasonal difference
+diff_szn <- diff(le, 52)
+#first difference applied to seasonal difference
+diff_1st_szn <- diff(diff_szn)
+```
 
+```{r}
+plot(diff_log,xlab='year',ylab='diff',type='l', main="1st Diff")
+points(diff_log,pch=1,cex=0.7)
+plot(diff_szn,xlab='year',ylab='sea-diff',type='l', main="Seasonal Diff")
+points(diff_szn,pch=1,cex=0.7)
+plot(diff_1st_szn,xlab='year',ylab='First and Seasonal Difference of Log-Adjusted Stock Price',type='l', main="First and Seasonal Difference", col= "darkgreen")
+points(diff_1st_szn,pch=1,cex=0.7, col = "darkgreen")
+```
 
 
 
