@@ -6,7 +6,7 @@ Time series analysis of DraftKing's adjusted stock price over the time period of
 
 ## Software and Platform
 
-This project was conducted using Google Colab, R, and Python, utilizing pandas for data handling, matplotlib and seaborn for visualization, and statsmodels for time-series analysis. Stock data was sourced via the Yahoo Finance API. The project was executed on Mac and Windows platforms.
+This project was conducted using Google Colab, R, and Python, utilizing pandas for data handling, matplotlib and seaborn for visualization, and various statsmodels for time-series analysis. Stock data was sourced via the Yahoo Finance API. The project was executed on Mac and Windows platforms.
 
 ## Map
 
