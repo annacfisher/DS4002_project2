@@ -16,6 +16,10 @@ MIT License dictating how this data and analysis can be used.
 
 ### Scripts:
 
+EDA_Scripts: Scripts used to explore trends, seasonality, and volatility in DraftKings stock data through time series, trading volume, decomposition, and differencing plots.
+
+TimeSeriesAnalysis:
+
 ### Data:
 
 ### Output:
