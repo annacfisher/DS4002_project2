@@ -2,7 +2,7 @@
 Project 2 github repository for DS 4002 group 16
 
 ## Contents
-
+Time series analysis of DraftKing's adjusted stock price over the time period of April 2020 to January 2025. Analyzes the impact of major sporting events on adjusted stock price and builds a model using seasonality to predict future stock prices.
 
 ## Software and Platform
 
